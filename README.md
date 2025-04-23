@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusrv&label=Profile%20views&color=0e75b6&style=flat" alt="matheusrv" /> </p>
 
-- 🌱 Atualmente estou estudando sobre **Google API, JQuery e outros.**
+- 🌱 Atualmente estou estudando sobre **Bubble.io, Supabase e outros.**
 
-- 💬 Me pergunte sobre **linguagem C/C++, HTML, CSS, JS e PHP.**
+- 💬 Me pergunte sobre **linguagem C/C++, HTML, CSS, JS, PHP e Python.**
 
 - 📫 Você pode me chamar no email **matheus.reusv@gmail.com**
 
